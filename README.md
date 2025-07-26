@@ -20,4 +20,4 @@ a responsive and modern landing page inspired by the official Udemy website. Thi
 - Bootstrap 5
 - Font Awesome icons
 
-🗂  View the Udemy code here: [](your-link-here)
+🗂  View the Udemy code here: [](udemy.html)
