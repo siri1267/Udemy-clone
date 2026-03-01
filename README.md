@@ -20,4 +20,4 @@ a responsive and modern landing page inspired by the official Udemy website. Thi
 - Bootstrap 5
 - Font Awesome icons
 
-We can access the website here :[Udemy clone](https://earnest-crepe-9aae0e.netlify.app/)
+We can access the website here :[Udemy clone](https://udemycloneusingfrontend.netlify.app/)
